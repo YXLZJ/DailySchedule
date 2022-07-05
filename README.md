@@ -29,3 +29,5 @@ I/O子系统
 7月1日 :学习Rust，做rustlings上的习题
 ---
 7月2日 :完成step0，完成Rust转移语义的学习，并完成rustlings上的习题
+--
+7月3-5日 :Rustlings完成到错误处理（代码在仓库中），比较有趣的的是str.to_lowercase()返回的是String类型，这比较反直觉
